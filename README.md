@@ -1,6 +1,6 @@
 # Kitchen Sink
 
-Below we demonstrate some data markdown (.dmd) capabilities. See https://github.com/capta-studio/blog1 for all the files used in generating this page, especially `README.md`.
+Below sort we demonstrate some data markdown (.dmd) capabilities. See https://github.com/capta-studio/blog1 for all the files used in generating this page, especially `README.md`.
 
 ## Show CSV as tables
 
